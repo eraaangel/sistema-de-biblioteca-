@@ -4,4 +4,4 @@ return 0;
 }
 return diasAtraso * 2;
 }
-console.log(calcularMulta(5));# sistema-de-biblioteca-
+console.log(calcularMulta(5));
